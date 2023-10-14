@@ -16,9 +16,11 @@ params:
     imageUrl: apple-touch-icon.png
     buttons:
       - name: Posts
-        url: "/posts"
+        url: /posts
       - name: Publications
-        url: "/publications"
+        url: /publications
+      - name: Archive
+        url: /archive
         
   socialIcons:
     - name: rss
