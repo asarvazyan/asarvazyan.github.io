@@ -12,13 +12,13 @@ params:
   profileMode:
     enabled: true
     title: Areg Mikael Sarvazyan
-    subtitle: Exploring the nooks and crannies of AI research 🔍
+    subtitle: "*Exploring the nooks and crannies of deep learning* 🔍\n\nJunior Research Scientist at Symanto"
     imageUrl: apple-touch-icon.png
     buttons:
       - name: Posts
         url: /posts
-      - name: Publications
-        url: /publications
+      - name: Research
+        url: /research
       - name: Archive
         url: /archive
         
@@ -64,14 +64,10 @@ menu:
       name: Tags
       url: /tags/
       weight: 3
-    - identifier: publications
-      name: Publications
-      url: /publications/
+    - identifier: research
+      name: Research
+      url: /research/
       weight: 4
-    - identifier: cv
-      name: CV
-      url: /cv/
-      weight: 5
 
 outputs:
   home:
