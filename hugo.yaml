@@ -12,7 +12,7 @@ params:
   profileMode:
     enabled: true
     title: Areg Mikael Sarvazyan
-    subtitle: "*Exploring the nooks and crannies of deep learning* 🔍\n\nJunior Research Scientist at Symanto"
+    subtitle: "*I study things that learn* 🔍\n\nJunior Research Scientist at Symanto"
     imageUrl: apple-touch-icon.png
     buttons:
       - name: Posts
